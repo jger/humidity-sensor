@@ -22,6 +22,11 @@ Display from [berrybase](https://www.berrybase.de/0.66-oled-display-shield-fuer-
 
 * Prices from December 2022
 
+
+## Configure Module
+<img src="/photos/module-configuration.png" alt="tasmota module configuration" width="300"/>
+
+
 ## Rules
 
 #### Show sensor readings
