@@ -22,15 +22,16 @@ Display from [berrybase](https://www.berrybase.de/0.66-oled-display-shield-fuer-
 
 * Prices from December 2022
 
+## Configuration
 
-## Configure Module
+### Tasmota -> Configuration -> Configure Module
 <img src="/photos/module-configuration.png" alt="tasmota module configuration" width="300"/>
 
-## Configure Logging
+### Tasmota ->  Configuration -> Configure Logging
 <img src="/photos/logging-configuration.png" alt="tasmota logging configuration" width="300"/>
 
-
-## Rules
+### Tasmota -> Console -> Rules
+Following rulles must setup. You must enter the following commands:
 
 #### Show sensor readings
 ```
