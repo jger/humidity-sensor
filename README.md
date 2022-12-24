@@ -1,6 +1,10 @@
 # HygraSense 
 Tasmota portable humidity and temprature sensor with display 
 
+<img src="/photos/hardware2.jpg" alt="HygraSense" width="200"/>
+
+
+
 ## Hardware 
 
 #### D1 ESP8266
