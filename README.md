@@ -8,7 +8,10 @@ D1 from [amazon](https://www.amazon.de/-/en/gp/product/B0754N794H) (4€*)
 
 #### Battery / LiPo Shield for D1 Mini
 Shield from [berrybase](https://www.berrybase.de/battery/lipo-shield-fuer-d1-mini) (3.25€*)
-and battery from [berrybase](https://www.berrybase.de/lp-503035-lithium-polymer/lipo-akku-3-7v-500mah-mit-2-pin-jst-stecker) (4.50€*)
+
+Battery from [berrybase](https://www.berrybase.de/lp-503035-lithium-polymer/lipo-akku-3-7v-500mah-mit-2-pin-jst-stecker) (4.50€*)
+
+Female ph2 2 pin connector from [berrybase](https://www.berrybase.de/en/ph2.0-buchse-printmontage-gewinkelt-2-pin) (0.07€*)
 
 #### 0.66" OLED Display Shield for D1 Mini
 Display from [berrybase](https://www.berrybase.de/0.66-oled-display-shield-fuer-d1-mini) (4.90€*)
