@@ -26,6 +26,9 @@ Display from [berrybase](https://www.berrybase.de/0.66-oled-display-shield-fuer-
 ## Configure Module
 <img src="/photos/module-configuration.png" alt="tasmota module configuration" width="300"/>
 
+## Configure Logging
+<img src="/photos/logging-configuration.png" alt="tasmota logging configuration" width="300"/>
+
 
 ## Rules
 
