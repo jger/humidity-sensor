@@ -30,8 +30,13 @@ Display from [berrybase](https://www.berrybase.de/0.66-oled-display-shield-fuer-
 ### Tasmota ->  Configuration -> Configure Logging
 <img src="/photos/logging-configuration.png" alt="tasmota logging configuration" width="300"/>
 
-### Tasmota -> Console -> Rules
+### Tasmota -> Console
 Following rulles must setup. You must enter the following commands:
+
+#### Set display mode to 0 (custom)
+```
+displaymode 0
+```
 
 #### Show sensor readings
 ```
