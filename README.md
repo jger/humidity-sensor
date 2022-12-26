@@ -64,3 +64,6 @@ rule2 1
 #### You can print the following 2 files to create a box for this device.
 
 [HS-box.stl](/3d-printing/HS-box.stl)
+
+[HS-top.stl](/3d-printing/HS-top.stl)
+
