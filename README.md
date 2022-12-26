@@ -1556,3 +1556,13 @@ solid ASCII
 endsolid
 ```
 
+## Useful links: 
+https://tasmota.github.io/docs/AM2301/
+
+https://tasmota.github.io/docs/Rules/
+
+https://tasmota.github.io/docs/Displays/
+
+https://templates.blakadder.com/oled.html
+
+https://iotspace.dev/wemos-d1-mini-battery-shield/
