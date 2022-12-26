@@ -1,9 +1,7 @@
 # HygraSense 
 Tasmota portable humidity and temprature sensor with display 
 
-<img src="/photos/hardware2.jpg" alt="HygraSense" width="200"/>
-
-
+<img src="/photos/hardware2.jpg" alt="HygraSense" height="260"/><img src="/photos/hygrasense-in-box.jpg" alt="HygraSense" height="260"/>
 
 ## Hardware 
 
@@ -59,3 +57,10 @@ rule1 1
 ```
 rule2 1
 ```
+
+
+## 3d printed case 
+
+#### You can print the following 2 files to create a box for this device.
+
+[HS-box.stl](/3d-printing/HS-box.stl)
